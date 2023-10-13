@@ -1,5 +1,5 @@
 <h2>React Native Mart</h2>
-<h3>Language --> Android - JAVA</h3>
+<h3>Language --> Javascript(React Native)</h3>
 This project a interface design of a online store which designed by React Native. In here I focused on the UI design only. 
 <h1></h1>
 <p>This App has three interfaces,</p>
